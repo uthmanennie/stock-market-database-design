@@ -12,4 +12,5 @@ Overall, the implemented DBMS provides an effective solution for managing stock 
 data, offering a well-structured and reliable platform for handling transactions, stock history, and client 
 information.
 
-![image](https://github.com/uthmanennie/stock-market-database-design/assets/159449534/836a2cbb-e9d2-4679-a5f3-3d7febd7a66c)
+
+![ERD](https://github.com/uthmanennie/stock-market-database-design/assets/159449534/836a2cbb-e9d2-4679-a5f3-3d7febd7a66c)
